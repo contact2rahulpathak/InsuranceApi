@@ -1,0 +1,11 @@
+F:\Pracjuly2020\insuranceCoreApi\InfraStructure\bin\Debug\netstandard2.0\InfraStructure.deps.json
+F:\Pracjuly2020\insuranceCoreApi\InfraStructure\bin\Debug\netstandard2.0\InfraStructure.dll
+F:\Pracjuly2020\insuranceCoreApi\InfraStructure\bin\Debug\netstandard2.0\InfraStructure.pdb
+F:\Pracjuly2020\insuranceCoreApi\InfraStructure\bin\Debug\netstandard2.0\Domain.dll
+F:\Pracjuly2020\insuranceCoreApi\InfraStructure\bin\Debug\netstandard2.0\Domain.pdb
+F:\Pracjuly2020\insuranceCoreApi\InfraStructure\obj\Debug\netstandard2.0\InfraStructure.csprojAssemblyReference.cache
+F:\Pracjuly2020\insuranceCoreApi\InfraStructure\obj\Debug\netstandard2.0\InfraStructure.AssemblyInfoInputs.cache
+F:\Pracjuly2020\insuranceCoreApi\InfraStructure\obj\Debug\netstandard2.0\InfraStructure.AssemblyInfo.cs
+F:\Pracjuly2020\insuranceCoreApi\InfraStructure\obj\Debug\netstandard2.0\InfraStructure.csproj.CopyComplete
+F:\Pracjuly2020\insuranceCoreApi\InfraStructure\obj\Debug\netstandard2.0\InfraStructure.dll
+F:\Pracjuly2020\insuranceCoreApi\InfraStructure\obj\Debug\netstandard2.0\InfraStructure.pdb
